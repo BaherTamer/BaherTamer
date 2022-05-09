@@ -15,7 +15,6 @@
 
 <!-- Bio Section -->
 ## __🪴 Bio__
-___
 
 Hello, world! My name is Baher. I live in cairo, Egypt. Currently I'm studying at faculty of computers and artificial intelligence under major of computer science and minor of information system.
 
@@ -23,7 +22,6 @@ Hello, world! My name is Baher. I live in cairo, Egypt. Currently I'm studying a
 
 <!-- Skills Section -->
 ## __🤹 Skills__
-___
 
 UX/UI Design | Git | Swift | SwiftUI
 
@@ -31,7 +29,6 @@ UX/UI Design | Git | Swift | SwiftUI
 
 <!-- Programs Section -->
 ## __💻 Programs__
-___
 
 XCode | Adobe XD | Figma
 
@@ -39,7 +36,6 @@ XCode | Adobe XD | Figma
 
 <!-- Contact Section -->
 ## __💬 Contact__
-___
 
 * [Mail](mailto:baher.appledev@icloud.com)
 * [LinkedIn](https://www.linkedin.com/in/bahertamer)
