@@ -3,7 +3,7 @@
 
 <!-- Title Section -->
 <h2 align = "center">
-    <b>A passionate iOS Developer from Egypt 🇪🇬</b>
+    <b>A passionate iOS developer from Egypt 🇪🇬</b>
 </h2> 
 
 <br>
@@ -16,7 +16,7 @@
 <!-- Bio Section -->
 ## __🪴 Bio__
 
-Hello, world! My name is Baher. I live in cairo, Egypt. Currently I'm studying at faculty of computers and artificial intelligence under major of computer science and minor of information system.
+Hello, world! My name is Baher. I live in Cairo, Egypt. Currently, I'm studying at faculty of computers and artificial intelligence under major of computer science and minor of information systems.
 
 <br>
 
